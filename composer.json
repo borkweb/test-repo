@@ -1,0 +1,10 @@
+{
+	"name": "borkweb/test-repo",
+	"description": "A test repo",
+	"type": "project",
+	"keywords": ["wordpress", "events"],
+	"homepage": "http://borkweb.com",
+	"license": "GPL-2.0",
+	"minimum-stability": "dev",
+	"prefer-stable": false
+}
